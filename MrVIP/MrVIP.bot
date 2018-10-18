@@ -1,0 +1,18 @@
+{
+    "name": "MrVIP",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:3979/api/messages",
+            "id": "7f10d600-c995-11e8-9da5-556a6ec31fa0",
+            "name": "http://localhost:3979/"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "path": "C:\\D\\VIP Projects\\ChatBot\\MrVIP\\MrVIP.bot",
+    "overrides": null
+}
